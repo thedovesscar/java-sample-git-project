@@ -9,5 +9,6 @@ public class UserDemo {
 		person.setName("Johnny Boy");
 		
 		System.out.println(person);
+		System.out.println("Wow Cool Job!");
 	}
 }
