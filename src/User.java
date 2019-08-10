@@ -22,6 +22,6 @@ public class User {
 
 	@Override
 	public String toString() {
-		return "User [name=" + name + ", age=" + age + "]";
+		return "User's name is " + name + ", and their age is " + age + ".";
 	}
 }
